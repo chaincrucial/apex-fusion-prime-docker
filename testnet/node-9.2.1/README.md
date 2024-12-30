@@ -18,9 +18,9 @@ For detals consult the docker compose file but at the time of writing, the follo
 | Component   | Version      | Docker registry                      |
 |-------------|--------------|--------------------------------------|
 | prime-relay |        9.2.1 | ghcr.io/intersectmbo/cardano-node    |
-| ogmios      |       v6.3.0 | cardanosolutions/ogmios              |
+| ogmios      |       v6.8.0 | cardanosolutions/ogmios              |
 | postgres    | 14.10-alpine | postgres                             |
-| dbsync      |     13.2.0.2 | ghcr.io/intersectmbo/cardano-db-sync |
+| dbsync      |     13.5.0.2 | ghcr.io/intersectmbo/cardano-db-sync |
 | blockfrost  |       v1.7.0 | blockfrost/backend-ryo               |
 | wallet-api  |   2023.12.18 | cardanofoundation/cardano-wallet     |
 | icarus      |  v2023-04-14 | piotrstachyra/icarus                 |
